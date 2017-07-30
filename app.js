@@ -1,3 +1,4 @@
+// 2017. 07. 30
 $(document).ready(function () {
   console.log ( 'zzz' );
 var audioCtx = new (window.AudioContext || window.webkitAudioContext)();

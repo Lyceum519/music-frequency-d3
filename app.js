@@ -1,4 +1,4 @@
-// 2017. 07. 30
+// 2017. 07. 30 sunday
 $(document).ready(function () {
   console.log ( 'zzz' );
 var audioCtx = new (window.AudioContext || window.webkitAudioContext)();

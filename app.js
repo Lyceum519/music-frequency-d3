@@ -1,4 +1,5 @@
 // 2017. 07. 30 sunday
+// pull and fetch
 $(document).ready(function () {
   console.log ( 'zzz' );
 var audioCtx = new (window.AudioContext || window.webkitAudioContext)();
